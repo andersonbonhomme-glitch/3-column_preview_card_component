@@ -186,11 +186,11 @@ a{
         transition: all 1s;
     }
 
-    .container1 a{
+    .container2 a{
         transition: all 1s;
     }
 
-    .container1 a{
+    .container3 a{
         transition: all 1s ;
     }
 }
